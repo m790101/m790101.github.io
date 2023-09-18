@@ -3,11 +3,11 @@
   <title>HW blog</title>
   
   
-  <link href="https://github.com/m790101.github.io.git/atom.xml" rel="self"/>
+  <link href="https://m790101.github.io/atom.xml" rel="self"/>
   
-  <link href="https://github.com/m790101.github.io.git/"/>
+  <link href="https://m790101.github.io/"/>
   <updated>2023-09-16T09:39:52.186Z</updated>
-  <id>https://github.com/m790101.github.io.git/</id>
+  <id>https://m790101.github.io/</id>
   
   <author>
     <name>Haowen Cheng</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="https://github.com/m790101.github.io.git/2023/09/16/hello-world/"/>
-    <id>https://github.com/m790101.github.io.git/2023/09/16/hello-world/</id>
+    <link href="https://m790101.github.io/2023/09/16/hello-world/"/>
+    <id>https://m790101.github.io/2023/09/16/hello-world/</id>
     <published>2023-09-16T09:18:19.594Z</published>
     <updated>2023-09-16T09:39:52.186Z</updated>
     
